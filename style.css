@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+.post {
+    font-size: 15px;
+    text-align: center;
+    background-color:orange;
+    margin:0% 35% 0% 35%;
+    border-radius: 5px; 
+}
